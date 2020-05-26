@@ -1,0 +1,37 @@
+.products {
+	color: blue;
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	width: 1200px;
+	margin-top: 5%;
+}
+.product {
+	font-size: 14px;
+	font-weight: 700;
+}
+.product:hover {
+	cursor: pointer;
+}
+#basket {
+	width: 80px;
+	height: 100px;
+	font-size: 18px;
+	font-weight: 900;
+	border: 1px solid red;
+}
+#cleanBut {
+	font-size: 14px;
+	font-weight: 900;
+	color: white;
+	background-color: blue;
+	border: none;
+	border-radius: 20px;
+	padding: 0px 15px;
+}
+#cleanBut:hover {
+	cursor: pointer;
+}
+#cleanBut:focus {
+	outline: none;
+}

@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+
+}
+a {
+  text-decoration: none;
+  font-weight: 700;
+}
+nav a {
+  font-size: 18px;
+  color: blue;
+}
+nav a:focus {
+  font-size: 18px;
+  color: red;
+}
+#root {
+background: -webkit-linear-gradient(#fff, yellow);
+background: -o-linear-gradient(#fff, yellow);
+background: linear-gradient(#fff, yellow);
+height: 760px;
+}
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.goods {
+  color: grey;
+}
+#b1 {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 14px;
+  border: none;
+  border-radius: 7px;
+  padding: 15px 25px;
+}
+

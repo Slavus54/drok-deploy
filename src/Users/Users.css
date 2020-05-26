@@ -1,0 +1,46 @@
+.users-main {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	height: 400px;
+	background-color: inherit;
+	color: blue;
+}
+.girl {
+	color: red;
+}
+.girl_active {
+	color: green;
+}
+.users-main li {
+	list-style: none;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.users-main li:nth-child(1) {
+	margin-left: -5%;
+}
+.inputs {
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	margin-top: 7%;
+}
+.inputs li {
+	margin-left: 120%;
+}
+
+#butBackUsers {
+	position: relative;
+	display: block;
+	text-align: center;
+	width: 120px;
+	height: 50px;
+	background-color: grey;
+	color: white;
+	border: none;
+	border-radius: 25px;
+	box-shadow: 0px 0px 5px grey;
+	margin-top: 12%;
+	margin-left: -15%;
+}
