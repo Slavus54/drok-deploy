@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drok-deploy/static/css/main.b9aeb2f8.chunk.css",
+    "main.js": "/drok-deploy/static/js/main.7a724612.chunk.js",
+    "main.js.map": "/drok-deploy/static/js/main.7a724612.chunk.js.map",
+    "runtime-main.js": "/drok-deploy/static/js/runtime-main.bed8fdc8.js",
+    "runtime-main.js.map": "/drok-deploy/static/js/runtime-main.bed8fdc8.js.map",
+    "static/js/2.a8314157.chunk.js": "/drok-deploy/static/js/2.a8314157.chunk.js",
+    "static/js/2.a8314157.chunk.js.map": "/drok-deploy/static/js/2.a8314157.chunk.js.map",
+    "index.html": "/drok-deploy/index.html",
+    "precache-manifest.85468fb4c9683c09de0e1cc947a07fc9.js": "/drok-deploy/precache-manifest.85468fb4c9683c09de0e1cc947a07fc9.js",
+    "service-worker.js": "/drok-deploy/service-worker.js",
+    "static/css/main.b9aeb2f8.chunk.css.map": "/drok-deploy/static/css/main.b9aeb2f8.chunk.css.map",
+    "static/media/logo.svg": "/drok-deploy/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bed8fdc8.js",
+    "static/js/2.a8314157.chunk.js",
+    "static/css/main.b9aeb2f8.chunk.css",
+    "static/js/main.7a724612.chunk.js"
+  ]
+}
